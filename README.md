@@ -2,6 +2,11 @@
 
 A modern and responsive fashion shopping website built using **HTML, CSS, and JavaScript**. This project provides a clean and user-friendly interface for browsing clothing products, viewing product details, and enjoying a seamless online shopping experience.
 
+## 🌐 Live Demo
+
+**View Project:**
+https://SANJANA951/.github.io/bootstrap-day5/index.html
+
 ## ✨ Features
 
 * 🏠 Responsive Home Page
@@ -41,13 +46,6 @@ git clone https://github.com/YOUR_USERNAME/attire-shopping-website.git
 2. Open the project folder.
 
 3. Open `index.html` in your browser.
-
-## 🌐 Live Demo
-
-**View Project:**
-https://SANJANA951/.github.io/bootstrap-day5/attire-shopping-website/
-
-> Replace the above URL with your actual GitHub Pages link after deploying the project.
 
 ## 📸 Screenshots
 
