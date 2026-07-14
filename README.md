@@ -35,7 +35,7 @@ Attire-Shopping-Website/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/attire-shopping-website.git
+git clone https://github.com/SANJANA951/bootstrap-day5/blob/main/attire.html
 ```
 
 2. Open the project folder.
