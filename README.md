@@ -5,7 +5,7 @@ A modern and responsive fashion shopping website built using **HTML, CSS, and Ja
 ## 🌐 Live Demo
 
 **View Project:**
-https://sanjana951.github.io/bootstrap-day5/attire/index.html
+https://sanjana951.github.io/bootstrap-day5/index.html
 
 ## ✨ Features
 
